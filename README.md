@@ -2,7 +2,11 @@
 
 **`Full Stack Developer (Developer/Designer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
+
+One of my unique qualities is my willingness to share my journey with others. I plan to publish all of my work and invite others to join me on my journey. I believe that collaboration and community are powerful tools, and I am excited to work with others to achieve great things.
+
+I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
