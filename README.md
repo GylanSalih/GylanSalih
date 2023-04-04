@@ -38,6 +38,8 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+#
+#
 
 <details>
  <summary><h3>👨‍💻 GylanSalih's Coding Journey</h3></summary>
