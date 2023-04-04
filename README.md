@@ -34,6 +34,8 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <img align="left" alt="GylanSalih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GylanSalih&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+| <a href="https://github.com/GylanSalih/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GylanSalih&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gylan's github stats" /></a> | <a href="https://github.com/GylanSalih/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GylanSalih&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
