@@ -26,7 +26,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" />
-
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
 
 <br>
 
