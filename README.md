@@ -35,10 +35,8 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer%20(Developer%2FDesigner%2FCreator%2C%20coffee%20lover);&font=Fira%20Code&center=true&width=440&height=45&color=fffffff&vCenter=true&pause=1000&size=22" />
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+!;Developer/Designer/Creator,+coffee+lover" &font=Fira%20Code&center=true&width=440&height=45&color=fffffff&vCenter=true&pause=1000&size=22;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+!;Newbie+Developer+(Developer/Designer/Creator,+coffee+lover)" style="filter: invert(100%);" &font=Fira%20Code&center/>
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+!;Newbie+Developer+(Developer/Designer/Creator,+coffee+lover)" style="filter: invert(100%);" />
     </a>
 </p>
 
