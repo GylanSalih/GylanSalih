@@ -30,7 +30,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 # Github Stats
 
-<img align="center" width="400" src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)" />
+<img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&currStreakNum=FFFFFF&sideLabels=FFFFFF&date_format=[Y.]n.j)" />
 
     
 <p align="center">
