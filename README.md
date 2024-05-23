@@ -25,7 +25,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 
 
 <details > 
-  <summary><h2>📊 Stats, Activity & 🔥-Streaks</h2></summary>
+  <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
@@ -43,14 +43,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 </details>
 
 <details > 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-    <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
-</p>
-</details>
-
-<details > 
-  <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
+  <summary><h2>🛠️ Programming Languages & Tools</h2></summary>
     <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
 </p>
