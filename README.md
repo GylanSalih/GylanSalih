@@ -110,17 +110,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <!-- END YOUTUBE-CARDS -->
 
 
-<!-- BEGIN DETAILS-AREA -->
-<details>
- <summary><h3>🐹 GylanSalih's Coding Journey</h3></summary>
- I started my coding journey in April 2023 and I am a beginner in this exciting field. I plan to share my code and projects on GitHub as I progress and learn new skills.
-
-Previously, I taught myself WordPress and worked with it for over 3 years. However, I now feel the need to expand my knowledge and work on bigger projects that offer more creative freedom. That's why I am currently learning how to code and am working on my first website using HTML, CSS, and JavaScript. I'm excited about the possibilities and challenges that lie ahead in this journey of mine.
-
-[website]: https://gylansalih.com
-</details>
-<!-- END DETAILS-AREA -->
-
 <!-- Footer Animated Image -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Footer%20Text&fontSize=90&animation=twinkling&fontAlignY=30&desc=Your%20Description&descSize=30&section=footer" />
