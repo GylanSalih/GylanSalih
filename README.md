@@ -3,6 +3,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
+</p>
+
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&theme=tokyonight" />
