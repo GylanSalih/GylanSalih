@@ -30,6 +30,10 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 # Github Stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats // Waka-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih" />
+    <br/>
+    
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
