@@ -26,6 +26,10 @@
     <br/>
     </p>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical" />
+
+    
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
