@@ -1,4 +1,4 @@
-<!-- Header Animated Image BEGIN -->FF0000
+<!-- Header Animated Image BEGIN -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
@@ -57,5 +57,5 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <!-- Footer Animated Image -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=90&animation=twinkling&fontAlignY=30&desc=See%20ya&descSize=30&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Thank%20You&fontSize=90&animation=twinkling&fontAlignY=30&desc=See%20ya&descSize=30&section=footer" />
 </p>
