@@ -16,7 +16,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&gylansalih&layout=compact&&theme=default&link="https://www.github.com/gylansalih/")
+[![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&gylansalih&layout=compact&&theme=default&link="https://www.github.com/gylansalih/")
+    ](https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&range=last_7_days)
     
 <!-- About Me Text BEGIN -->
 # About Me
