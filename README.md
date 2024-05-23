@@ -3,6 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 <!-- Header Animated Image END -->
+
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -15,8 +16,6 @@
 </p>
 
 
-
-
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
@@ -27,26 +26,20 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <!-- About Me Text BEGIN -->
 
 
-
-
-# Github Stats
-
-
-
 <details > 
   <summary><h2>📊 Stats, Activity & 🔥-Streaks</h2></summary>
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats // Git Stats-->
+    <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streak -->
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
     <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=FF0000&card_height=205" />
     <br/>
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph -->
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" />
-        <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
+    <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
     <br/>
-    <!-- https://github.com/anuraghazra/github-readme-stats // WAKA Stats-->
+    <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=default" />
 </p>
 </details>
@@ -66,7 +59,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 </details>
 
 <details> 
-  <summary><h2>💻 Favorite YouTube Videos</h2></summary>
+  <summary><h2>💻 My Favorite YouTube Videos</h2></summary>
    <p align="center">
        
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -79,7 +72,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <!-- END YOUTUBE-CARDS -->
 </p>
 </details>
-
 
 
 <!-- Footer Animated Image -->
