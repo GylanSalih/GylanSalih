@@ -25,7 +25,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 
 <details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>###📊 Stats and Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
