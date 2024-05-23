@@ -72,8 +72,14 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <br/>
 
   <h3>🔥 Streak Stats</h3>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true)<br/>
 
   <h3>💻 GitHub Profile Stats</h3>
+  
+### 📌 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -209,12 +215,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gylansalih&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### 📌 Stats
-
-![](https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
