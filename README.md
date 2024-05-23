@@ -35,7 +35,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
         <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
     <br/>
-     <!-- https://github.com/anuraghazra/github-readme-stats // Git Stats-->
+     <!-- https://github.com/anuraghazra/github-readme-stats // WAKATIME Stats-->
  <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=compact" />
     <br/>
     <!-- Skillicons // Icons Show -->
@@ -47,7 +47,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats // WAKA Stats-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=compact" />
 <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&bg_color=000000&text_color=FFFFFF&title_color=FF0000" />
 </p>
