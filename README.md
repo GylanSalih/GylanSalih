@@ -8,8 +8,10 @@ One of my unique qualities is my willingness to share my journey with others. I 
 
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=97DBAE&text=Input%20text&fontColor=ffffff&reversal=false
-
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Chris%20Xiao&descSize=30" />
+</p>
 <p align="center">
   <a href="https://github.com/GylanSalih">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Gylan Salih" /></a>
