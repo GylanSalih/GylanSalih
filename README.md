@@ -51,7 +51,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=github-compact&hide_border=true&area=true" />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?gylansalih=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimegylansalihffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Favorite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
