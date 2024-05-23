@@ -17,7 +17,7 @@
 <!-- About Me Text BEGIN -->
 
 <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Developer/Designer/Creator,+coffee+lover" style="filter: invert(100%);" />
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=500&center=true&vCenter=true&random=false&width=600&lines=Developer/Designer/Creator,+coffee+lover" style="filter: invert(100%);" />
     </a>
 </p>
 
