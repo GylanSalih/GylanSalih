@@ -15,7 +15,7 @@
     <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=tokyonight&hide_border=true&area=true" />
+    <img width="800" src="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gylansalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=tokyonight&hide_border=true&layout=compact&langs_count=20" />
@@ -33,6 +33,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gylansalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 **` Newbie Developer (Developer/Designer/Creator)`**
@@ -113,11 +117,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gylansalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 ---
 ### 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
