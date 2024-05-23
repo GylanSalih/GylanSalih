@@ -24,17 +24,6 @@ One of my unique qualities is my willingness to share my journey with others. I 
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
 <!-- About Me Text BEGIN -->
 
-
-
-<p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+!;Newbie+Developer+(Developer/Designer/Creator,+coffee+lover)" style="filter: invert(100%);" &font=Fira%20Code&center/>
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+!;Newbie+Developer+(Developer/Designer/Creator,+coffee+lover)" style="filter: invert(100%);" />
-    </a>
-</p>
-
-
-
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false" />
