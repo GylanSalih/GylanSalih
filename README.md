@@ -21,7 +21,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-    <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,github,java,vscode&perline=10" />
     <br/>
     </p>
 
