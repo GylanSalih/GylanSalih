@@ -14,9 +14,11 @@ I know that becoming a full-stack developer will require hard work and dedicatio
       <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   [![](https://visitcount.itsvg.in/api?id=gylansalih&icon=7&color=7)](https://visitcount.itsvg.in)
+---
 
 ---
+[![](https://visitcount.itsvg.in/api?id=gylansalih&icon=7&color=7)](https://visitcount.itsvg.in)
+
 ### 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
