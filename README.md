@@ -1,6 +1,6 @@
 <!-- Header Animated Image BEGIN -->FF0000
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontcolor=FF0000&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=d6ace6&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 <!-- Header Animated Image END -->
 <!-- Social badges section -->
