@@ -32,9 +32,9 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=dark&hide_border=true" />
+    <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=transparent&hide_border=true" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=github-compact&hide_border=true&area=true" />
