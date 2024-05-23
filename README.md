@@ -25,15 +25,6 @@
     <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10" />
 </p>
 
-### 🔥 Streak Stats
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true)<br/>
-
-### 📌 GitHub Profile Stats
-
-![](https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gylansalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
