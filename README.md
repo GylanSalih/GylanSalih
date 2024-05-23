@@ -212,9 +212,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gylansalih&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
