@@ -48,6 +48,10 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <br/>
     </p>
 
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=github-compact&hide_border=true&area=true" />
+<br/>
+
 
 # 💻 Favorite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
