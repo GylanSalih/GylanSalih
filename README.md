@@ -25,11 +25,6 @@
     <img align="center" src="https://skillicons.dev/icons?i=anaconda,c,cpp,github,java,md,matlab,pkl,pytorch,js,html,css,py,qt,ros,rust,tensorflow,ubuntu,unity,vscode&perline=10" />
 </p>
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gylansalih's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
