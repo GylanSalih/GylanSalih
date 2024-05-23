@@ -18,10 +18,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
    [![](https://visitcount.itsvg.in/api?id=gylansalih&icon=7&color=7)](https://visitcount.itsvg.in)
    
 ---
-
----
-[![](https://visitcount.itsvg.in/api?id=gylansalih&icon=7&color=7)](https://visitcount.itsvg.in)
-
 ### 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
