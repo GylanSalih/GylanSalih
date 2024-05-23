@@ -14,6 +14,9 @@
     <img alt="followers" title="Follow me on Github" src="https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true"/></a>
 </p>
 
+
+
+
 <!-- About Me Text BEGIN -->
 # About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
@@ -22,6 +25,9 @@ I am a newbie in the coding scene, but I am eager to become a full-stack develop
 One of my unique qualities is my willingness to share my journey with others. I plan to publish all of my work and invite others to join me on my journey. I believe that collaboration and community are powerful tools, and I am excited to work with others to achieve great things.
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
 <!-- About Me Text BEGIN -->
+
+
+
 
 # Github Stats
 <p align="center">
@@ -36,12 +42,16 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
     <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats // WAKA Stats-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=default" />
 <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&bg_color=000000&text_color=FFFFFF&title_color=FF0000" />
 <br/>
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
 </p>
+
+
+
+
 
 # 💻 Favorite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
