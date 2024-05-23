@@ -39,6 +39,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
  <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=compact" />
     <br/>
     <!-- Skillicons // Icons Show -->
+    <br/>
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=8" />
     <br/>
     </p>
