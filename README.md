@@ -17,7 +17,7 @@
 [![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
 
     <!-- https://github.com/anuraghazra/github-readme-stats // Git Stats-->
- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&range=last_7_days" />
+ <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple" />
     
 
     
