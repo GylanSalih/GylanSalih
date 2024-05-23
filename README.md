@@ -14,7 +14,7 @@
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
 <!-- About Me Text BEGIN -->
 # About Me
