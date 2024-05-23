@@ -43,7 +43,13 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 </details> 
 
 <details> 
-  <summary><h2>Skills</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<p align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
+</details>
+
+<details> 
+  <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
 <p align="center">
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
 </details>
