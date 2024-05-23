@@ -109,5 +109,5 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <!-- Footer Animated Image -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Footer%20Text&fontSize=90&animation=twinkling&fontAlignY=30&desc=Your%20Description&descSize=30&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=90&animation=twinkling&fontAlignY=30&desc=See%20ya&descSize=30&section=footer" />
 </p>
