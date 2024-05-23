@@ -55,8 +55,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Gylansalih&style=flat-square&color=dc143c)
-
 ### 🔥 Streak Stats
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true)<br/>
