@@ -47,9 +47,9 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     
 <p align="center">
 <!--WAAAKAAA-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soltus&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- most used language -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltus&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 </p>
 
