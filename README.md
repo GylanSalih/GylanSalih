@@ -9,10 +9,6 @@
 <p align="left">
   <a href="https://github.com/GylanSalih?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
-  <a href="https://github.com/gylansalih/Simple-View-Counter">
-      <a href="https://github.com/gylansalih/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true"/></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
