@@ -24,9 +24,19 @@ One of my unique qualities is my willingness to share my journey with others. I 
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
 <!-- About Me Text BEGIN -->
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gylan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
+
+
+
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false" />
+    <!-- https://github.com/anuraghazra/github-readme-stats GITHUB STATS-->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true" />
     <br/>
@@ -59,14 +69,3 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=90&animation=twinkling&fontAlignY=30&desc=See%20ya&descSize=30&section=footer" />
 </p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gylan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
