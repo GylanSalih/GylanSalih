@@ -13,10 +13,11 @@ I know that becoming a full-stack developer will require hard work and dedicatio
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      ![](https://komarev.com/ghpvc/?username=gylansalih&style=flat-square)
+       <a href="[https://github.com/GylanSalih?tab=repositories&sort=stargazers](https://komarev.com/ghpvc/?username=gylansalih&style=flat-square)">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-   
+   ![](https://komarev.com/ghpvc/?username=gylansalih&style=flat-square)
    [![](https://visitcount.itsvg.in/api?id=gylansalih&icon=7&color=7)](https://visitcount.itsvg.in)
    
 
