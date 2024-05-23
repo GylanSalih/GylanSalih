@@ -15,18 +15,22 @@ I know that becoming a full-stack developer will require hard work and dedicatio
   <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=GylanSalih&style=for-the-badge">
-    <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=GylanSalih&style=for-the-badge"/>
+</p>
+<p align="center">
+  <a href="https://github.com/GylanSalih">
+    <img src="DEIN_BILD_LINK" alt="Gylan Salih" />
   </a>
 </p>
+
    
 
 <p align="center">
   <a href="https://github.com/GylanSalih">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Gylan Salih" /></a>
 </p>
-
 <p align="center">
+
+  
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer;Developer%2FDesigner%2FCreator&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
