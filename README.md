@@ -71,13 +71,11 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <br/>
 
-  <h3>🔥 Streak Stats</h3>
+### 🔥 Streak Stats
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true)<br/>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  
-### 📌 Stats
+### 📌 GitHub Profile Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
