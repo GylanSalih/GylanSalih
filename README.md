@@ -30,6 +30,11 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 
 # Github Stats
+
+
+
+<details > 
+  <summary><h2>Test 1</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Git Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
@@ -44,12 +49,15 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <!-- https://github.com/anuraghazra/github-readme-stats // WAKA Stats-->
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=default" />
 </p>
+</details>
 
+<details > 
+  <summary><h2>Test 1</h2></summary>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
+</details>
 
 
-
-<details open> 
+<details> 
   <summary><h2>💻 Favorite YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
