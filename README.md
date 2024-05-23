@@ -18,7 +18,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Gylansalih's Activity Graph" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=tokyonight&hide_border=true&layout=compact&langs_count=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=transparent&hide_border=true&layout=compact&langs_count=20" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
     <br/>
