@@ -3,6 +3,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Footer%20Text&fontSize=90&animation=twinkling&fontAlignY=30&desc=Your%20Description&descSize=30&section=footer" />
+</p>
+
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
