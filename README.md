@@ -18,7 +18,7 @@
 
     
 <!-- About Me Text BEGIN -->
-# test
+# About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
