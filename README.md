@@ -1,12 +1,7 @@
-<!-- https://github.com/kyechan99/capsule-render -->
+<!-- Header Animated Image -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Footer%20Text&fontSize=90&animation=twinkling&fontAlignY=30&desc=Your%20Description&descSize=30&section=footer" />
-</p>
-
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -125,8 +120,7 @@ Previously, I taught myself WordPress and worked with it for over 3 years. Howev
 [website]: https://gylansalih.com
 <!-- END DETAILS-AREA -->
 
-<!-- https://github.com/kyechan99/capsule-render -->
+<!-- Footer Animated Image -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Footer%20Text&fontSize=90&animation=twinkling&fontAlignY=30&desc=Your%20Description&descSize=30&section=footer" />
 </p>
-
