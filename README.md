@@ -3,8 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 
-# 👨‍💻 Gylan Salih
-
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
