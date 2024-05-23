@@ -40,10 +40,10 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" />
     <br/>
         <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=600" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // Waka-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical&card_width=600" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical" />
     <br/>
     <!-- Skillicons // Icons Show -->
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=8" />
