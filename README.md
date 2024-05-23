@@ -59,3 +59,14 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=90&animation=twinkling&fontAlignY=30&desc=See%20ya&descSize=30&section=footer" />
 </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gylan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
