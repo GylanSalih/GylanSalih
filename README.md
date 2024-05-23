@@ -10,7 +10,8 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=black&text=%20Gylan%20Salih&fontColor=ffffff&textBg=false" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,000000&text=Input%20text&fontColor=ffffff&reversal=false">
+
 </p>
 
 <p align="center">
