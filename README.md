@@ -53,6 +53,14 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <br/>
 </p>
 
+<p align="center">
+<!--WAAAKAAA-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805&layout=compact&langs_count=22" />
+<!-- most used language -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000&langs_count=6" />
+<br/>
+</p>
+
 # 💻 Favorite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![hello buddy](https://ytcards.demolab.com/?id=gLZbgh7iVrI&tg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "new video")](https://https://www.youtube.com/watch?v=gLZbgh7iVrI&t=87s)
