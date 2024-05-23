@@ -30,10 +30,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 # Github Stats
 
-
-   <!-- https://github.com/anuraghazra/github-readme-stats -->
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true" />
-    
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Git Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
@@ -47,7 +43,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // Waka-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?gylansalih=anuraghazra&show_icons=true&theme=radical&card_width=600" />
     <br/>
     <!-- Skillicons // Icons Show -->
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=8" />
