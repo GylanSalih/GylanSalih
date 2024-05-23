@@ -12,6 +12,7 @@
   <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
   <a href="https://github.com/gylansalih/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      [![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
 </p>
       
 <!-- About Me Text BEGIN -->
@@ -26,8 +27,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gylan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
