@@ -33,12 +33,11 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 [![](https://visitcount.itsvg.in/api?id=Gylan&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
-
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats GITHUB STATS-->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Gylan&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=maroongold&hide_border=true" />
+    <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gylansalih&theme=dark&hide_border=true" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph/?username=gylansalih&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Gylansalih's Activity Graph" />
@@ -51,7 +50,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <img align="center" src="https://skillicons.dev/icons?i=html,css,js,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=8" />
     <br/>
     </p>
-
 
 
 # 💻 Favorite YouTube Videos
