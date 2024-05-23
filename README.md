@@ -36,9 +36,8 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer;Developer%2FDesigner%2FCreator&font=Fira%20Code&center=true&width=440&height=45&color=fffffff&vCenter=true&pause=1000&size=22" />
-    </a>
 
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+MRI+coil+and+pTx+development+!" style="filter: invert(100%);" />
     </a>
 </p>
