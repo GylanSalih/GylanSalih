@@ -55,12 +55,15 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 </p>
 
 
+
 <p align="center">
-<!--WAAAKAAA-->
-<img theme=midnight-purple&text_color=FFFFFF&title_color=FF0000&bg_color=000000&card_width=805" />
-<!-- most used language -->
-<img layout=bg_color=000000&text_color=FFFFFF&title_color=FF0000" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soltus&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soltus&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,html,css,js,ts,materialui,androidstudio,au,bitbucket,blender,debian,deno,docker,dotnet,electron,fastapi,github,githubactions,go,ai,kotlin,less,sass,mongodb,obsidian,pnpm,postgres,powershell,react,reactivex,visualstudio,vscode,unity&theme=dark" />
 </p>
 
 # 💻 Favorite YouTube Videos
