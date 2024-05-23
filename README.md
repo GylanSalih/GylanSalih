@@ -36,7 +36,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer;Developer%2FDesigner%2FCreator&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer;Developer%2FDesigner%2FCreator&font=Fira%20Code&center=true&width=440&height=45&color=fffffff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
