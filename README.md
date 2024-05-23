@@ -1,8 +1,10 @@
-<!-- Header Animated Image -->
+<!-- Header Animated Image BEGIN -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
+<!-- Header Animated Image END -->
 
+<!-- Header Animated Image BEGIN -->
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
@@ -10,11 +12,7 @@ I am a newbie in the coding scene, but I am eager to become a full-stack develop
 One of my unique qualities is my willingness to share my journey with others. I plan to publish all of my work and invite others to join me on my journey. I believe that collaboration and community are powerful tools, and I am excited to work with others to achieve great things.
 
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
-
-<p align="center">
-  <a href="https://github.com/GylanSalih">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Gylan Salih" /></a>
-</p>
+<!-- Header Animated Image BEGIN -->
 
 <br/>
 
