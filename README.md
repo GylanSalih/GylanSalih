@@ -3,6 +3,37 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20There&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20Am%20Gylan%20Salih&descSize=30" />
 </p>
 
+<br/>
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://github.com/GylanSalih?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
+  <a href="https://github.com/gylansalih/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GylanSalih?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/gylansalih/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Profilaufrufe-1000-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+
+
+<br/>
+
+
+
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;I+am+interested+in+MRI+coil+and+pTx+development+!" />
@@ -47,37 +78,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
     <img src="https://readme-typing-svg.demolab.com/?lines=Newbie%20Developer;Developer%2FDesigner%2FCreator&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-
-
-
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/GylanSalih?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
-  <a href="https://github.com/gylansalih/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GylanSalih?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/gylansalih/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://img.shields.io/badge/Profilaufrufe-1000-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-
-
-<br/>
 
 
 # 💻 Favorite YouTube Videos
