@@ -46,6 +46,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
     
 <p align="center">
+<br/>
 <!--WAAAKAAA GG-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=FF0000" />
 <!-- most used language GG-->
