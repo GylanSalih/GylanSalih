@@ -12,6 +12,8 @@
   <a href="https://github.com/GylanSalih?tab=repositories&sort=stargazers">
   <a href="https://github.com/gylansalih/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/gylansalih/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true"/></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=GylanSalih&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
