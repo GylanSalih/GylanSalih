@@ -118,6 +118,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 Previously, I taught myself WordPress and worked with it for over 3 years. However, I now feel the need to expand my knowledge and work on bigger projects that offer more creative freedom. That's why I am currently learning how to code and am working on my first website using HTML, CSS, and JavaScript. I'm excited about the possibilities and challenges that lie ahead in this journey of mine.
 
 [website]: https://gylansalih.com
+</details>
 <!-- END DETAILS-AREA -->
 
 <!-- Footer Animated Image -->
