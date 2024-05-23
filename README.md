@@ -18,7 +18,7 @@
 
 
 <!-- About Me Text BEGIN -->
-# About Me
+# 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
 I am a newbie in the coding scene, but I am eager to become a full-stack developer. I have a strong desire to learn and improve my skills, and I am excited about the challenges that lie ahead.
@@ -52,10 +52,14 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 </details>
 
 <details > 
-  <summary><h2>Test 1</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
 </details>
 
+<details > 
+  <summary><h2>👨‍💻 Programming and Markup Languages</h2></summary>
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
+</details>
 
 <details> 
   <summary><h2>💻 Favorite YouTube Videos</h2></summary>
