@@ -71,8 +71,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 
 <br/>
 
-
-<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
