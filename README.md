@@ -157,9 +157,6 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gylansalih&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
@@ -174,6 +171,7 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 [![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
 <!-- END YOUTUBE-CARDS -->
 
+<!-- BEGIN DETAILS-AREA -->
 <details>
  <summary><h3>🐹 GylanSalih's Coding Journey</h3></summary>
  I started my coding journey in April 2023 and I am a beginner in this exciting field. I plan to share my code and projects on GitHub as I progress and learn new skills.
@@ -181,3 +179,4 @@ I know that becoming a full-stack developer will require hard work and dedicatio
 Previously, I taught myself WordPress and worked with it for over 3 years. However, I now feel the need to expand my knowledge and work on bigger projects that offer more creative freedom. That's why I am currently learning how to code and am working on my first website using HTML, CSS, and JavaScript. I'm excited about the possibilities and challenges that lie ahead in this journey of mine.
 
 [website]: https://gylansalih.com
+<!-- END DETAILS-AREA -->
