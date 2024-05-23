@@ -12,6 +12,7 @@ I am a newbie in the coding scene, but I am eager to become a full-stack develop
 One of my unique qualities is my willingness to share my journey with others. I plan to publish all of my work and invite others to join me on my journey. I believe that collaboration and community are powerful tools, and I am excited to work with others to achieve great things.
 
 I know that becoming a full-stack developer will require hard work and dedication, but I am up for the challenge. I am determined to succeed and will not give up until I reach my goal. I am excited to see where this journey will take me and can't wait to see what the future holds!
+
 <!-- About Me Text BEGIN -->
 
 <br/>
