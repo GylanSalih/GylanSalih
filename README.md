@@ -17,12 +17,6 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-%20www.Gylansalih.com-black?style=for-the-badge&logo=package&logoColor=white"/>
 </p>
 
-<img alt="followers" title="
-"/>
-
-<img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-%20www.Gylansalih.com-black?style=for-the-badge&logo=package&logoColor=white"/>
-<img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star"/>
-
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
