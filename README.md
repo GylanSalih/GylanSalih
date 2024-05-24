@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/GylanSalih?tab=followers">
+  <a href="https://github.com/GylanSalih?tab=stars">
     <img alt="followers" title="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star
 "/></a>
 </p>
