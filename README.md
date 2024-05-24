@@ -68,5 +68,5 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 
 <!-- Footer Animated Image -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20follow%20for%20more%20updates&fontSize=90&animation=twinkling&fontAlignY=30&desc=don´t%20forget%20to%20follow&descSize=30&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20follow&fontSize=90&animation=twinkling&fontAlignY=30&desc=%20for%20more%20updates&descSize=30&section=footer" />
 </p>
