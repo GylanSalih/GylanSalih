@@ -14,7 +14,7 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=00000F"/>
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&logoColor=white&color=00000F"/>
-    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&logoColor=white&color=00000F"/>
+    [![wakatime](https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg)](https://wakatime.com/@a7712081-caba-4e50-9f41-e59067e77902)
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-%20www.Gylansalih.com-black?style=for-the-badge&logo=package&logoColor=white"/>
 </p>
 
