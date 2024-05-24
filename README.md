@@ -6,14 +6,14 @@
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- View counter - https://komarev.com -->
 <!-- https://custom-icon-badges.demolab.com-->
 <p align="left">
   <a href="https://github.com/GylanSalih?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GylanSalih?color=FF0000&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <img alt="views" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star"/>
-    <img alt="Repos" title="Stars" src="https://custom-icon-badges.demolab.com/badge/-Watch%20Repositories-black?style=for-the-badge&logo=package&logoColor=white"/>
     <img alt="Repos" title="Stars" src="https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=00000F"/>
+    <img alt="Repos" title="Stars" src="https://custom-icon-badges.demolab.com/badge/-Watch%20Repositories-black?style=for-the-badge&logo=package&logoColor=white"/>
 </p>
 
 
