@@ -15,6 +15,7 @@
     <img alt="Repos" title="Stars" src="https://custom-icon-badges.demolab.com/badge/-Watch%20Repositories-black?style=for-the-badge&logo=package&logoColor=white"/>
 </p>
 
+https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=brightgreen
 
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
