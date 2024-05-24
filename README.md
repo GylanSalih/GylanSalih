@@ -24,7 +24,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 <!-- About Me Text BEGIN -->
 
 
-<details > 
+<details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
@@ -42,14 +42,14 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 </p>
 </details>
 
-<details > 
+<details open> 
   <summary><h2>🛠️ Programming Languages & Tools</h2></summary>
     <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
 </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>💻 My Favorite YouTube Videos</h2></summary>
    <p align="center">
        
