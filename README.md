@@ -18,7 +18,7 @@
 </p>
 
 
-<img alt="followers" title="https://custom-icon-badges.demolab.com/github/stars/GylanSalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star
+<img alt="followers" title="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=star
 "/>
 
 <!-- About Me Text BEGIN -->
