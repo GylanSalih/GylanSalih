@@ -35,14 +35,10 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
     <a href="https://github.com/GylanSalih/Slider-Template-Website" target="_blank">
     <img alt="Slider Template" title="Slider Template" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Slider-Template-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
     <a href="https://github.com/GylanSalih/Calculator" target="_blank">
-    <img alt="Calculator" title="Calculator" height="120" src="https://github.com/GylanSalih/Calculator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
+    <img alt="Calculator" title="Calculator" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Calculator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
     <a href="https://github.com/GylanSalih/TicTacToe" target="_blank">
     <img alt="TicTacToe" title="TicTacToe" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=TicTacToe&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
 </details>
-
-
-
-
 
 
 
