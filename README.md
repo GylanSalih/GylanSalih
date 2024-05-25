@@ -18,6 +18,8 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-%20www.Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge&"/>
 <p/>
 
+<img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg"/>
+
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
@@ -28,11 +30,14 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
 <p align="center">
+    <a href="https://github.com/GylanSalih/Website-Portfolio" target="_blank">
+    <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+</a>
      <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
     <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=QR-Code-Generator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
      <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Restaurant-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
      <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-    <img alt="Repos" title="Repos" height="120"  src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=TicTacToe&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+    <img alt="Repos" title="Repos" height="120"  src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&Slider-Template-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
     <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Calculator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
 </details>
 
