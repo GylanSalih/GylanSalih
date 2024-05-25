@@ -28,12 +28,12 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
 <p align="center">
-     <img alt="Repos" title="Repos" width="50" height="50" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-    <img alt="Repos" title="Repos" width="50" height="50" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=QR-Code-Generator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-     <img alt="Repos" title="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Restaurant-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-     <img alt="Repos" title="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-    <img alt="Repos" title="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=TicTacToe&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
-    <img alt="Repos" title="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Calculator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+     <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+    <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=QR-Code-Generator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+     <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Restaurant-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+     <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+    <img alt="Repos" title="Repos" height="120"  src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=TicTacToe&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+    <img alt="Repos" title="Repos" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Calculator&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
 </details>
 
 <details open>  
