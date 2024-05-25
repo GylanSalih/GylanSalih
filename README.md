@@ -18,7 +18,7 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-%20www.Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge&"/>
 <p/>
 
-<img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg"/>
+<img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&style=for-the-badge&logoColor=white&color=00000F"/>
 
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
