@@ -25,6 +25,11 @@
 I’m new to coding and eager to become a full-stack developer. I'm excited about learning and improving my skills, and I'm ready for the challenges ahead. I plan to share my journey, publishing my work and inviting others to join me. I believe in the power of collaboration and community. Becoming a full-stack developer will require hard work and dedication, but I’m determined to succeed. I’m excited to see where this journey takes me and what the future holds!
 <!-- About Me Text BEGIN -->
 
+<details>
+    <summary><h2>Workflow</h2></summary>
+<p align="center">
+    <img alt="Repos" title="Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/>
+</details>
 
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
