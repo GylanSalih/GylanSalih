@@ -46,7 +46,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&title_color=FFFFFF&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
     <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&card_height=205&currStreakLabel=FF0000" />
     <br/>
