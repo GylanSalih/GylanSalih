@@ -48,7 +48,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&border=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&card_height=205&currStreakLabel=FF0000" />
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&border=000000&currStreakNum=FF0000&card_height=205&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&point=FF0000&area=true&area_color=FF0000&line=FF0000" />
