@@ -47,14 +47,14 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=FF0000&ring_color=FF0000" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&bg_color=000000&text_color=FFFFFF&ring_color=FF0000" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&border=000000&currStreakNum=FF0000&card_height=205&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&card_height=205&border=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&area=true&area_color=FF0000&hide_border=true&point=FF0000&line=FF0000" />
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&area_color=FF0000&area=true&hide_border=true&point=FF0000&line=FF0000" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&bg_color=000000&card_width=805&text_color=FFFFFF&hide_border=true&title_color=FF0000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&card_width=805&text_color=FFFFFF&bg_color=000000&hide_border=true&title_color=FF0000" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&card_width=805&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000&layout=default" />
