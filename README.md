@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://github.com/GylanSalih?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gylansalih?color=FF0000&logo=person-add&logoColor=white&style=for-the-badge&labelColor=000000&label=Follow"/></a>
-    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&logo=star&style=for-the-badge&labelColor=000000"/>
-    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&style=for-the-badge&color=00000F"/>
-    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&color=00000F&logoColor=white&style=for-the-badge"/>
+    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&logo=star&labelColor=000000&style=for-the-badge"/>
+    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=00000F&style=for-the-badge"/>
+    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&color=00000F&style=for-the-badge"/>
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Coming--Soon-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
 
