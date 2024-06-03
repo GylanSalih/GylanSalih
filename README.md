@@ -16,7 +16,7 @@
     <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?color=FF0000&style=for-the-badge&logo=star&labelColor=000000"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=00000F&style=for-the-badge"/>
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&color=00000F&style=for-the-badge"/>
-    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Coming--Soon-black?logo=package&logoColor=white&style=for-the-badge"/>
+    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Coming--Soon-black?logo=package&style=for-the-badge&logoColor=white"/>
 <p/>
 
 
