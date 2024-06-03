@@ -35,7 +35,7 @@ I’m new to coding and eager to become a full-stack developer. I'm excited abou
     <a href="https://github.com/GylanSalih/Slider-Template-Website" target="_blank">
     <img alt="Slider Template" title="Slider Template" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Slider-Template-Website&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
     <a href="https://github.com/GylanSalih/GylanSalih" target="_blank">
-    <img alt="ReadMe.Design" title="ReadMe.Design" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
+    <img alt="ReadMe.Design" title="ReadMe.Design" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/></a>
 </details>
 
 
