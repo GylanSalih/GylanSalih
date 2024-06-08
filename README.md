@@ -18,7 +18,6 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Coming--Soon-black?logo=package&style=for-the-badge&logoColor=white"/>
 <p/>
 
-
 <!-- About Me Text BEGIN -->
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
