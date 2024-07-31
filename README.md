@@ -28,6 +28,12 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
+
+    | In Progress                                                  | In Progress                                                  | In Progress                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Showcase](https://github.com/GylanSalih/Website-Portfolio) | ![Showcase](https://github.com/GylanSalih/Card-Effect-Maker) | ![Showcase](https://github.com/GylanSalih/GylanSalih) |
+
+
 <p align="center">
     <a href="https://github.com/GylanSalih/Website-Portfolio" target="_blank">
     <img alt="Portfolio" title="Portfolio" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
