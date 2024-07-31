@@ -29,9 +29,9 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
 
-    | In Progress                                                  | In Progress                                                  | In Progress                                                  |
+| In Progress                                                  | In Progress                                                  | In Progress                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Showcase](https://github.com/GylanSalih/Website-Portfolio) | ![Showcase](https://github.com/GylanSalih/Card-Effect-Maker) | ![Showcase](https://github.com/GylanSalih/GylanSalih) |
+| ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase_Landing_Page.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Single_Card%20-%20Kopie.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/About_Me.jpeg) |
 
 
 <p align="center">
