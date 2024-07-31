@@ -22,10 +22,8 @@
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
-🦝 I’ve just taken my first steps into the coding universe, and I’m already completely hooked! 😂 It’s like a whole new world has opened up for me, and I can’t get enough. Every line of code feels like magic, and I’m totally addicted to the process of creating something out of nothing. I’m constantly thinking about new ideas and projects, and I seriously can’t wait to release them and share what I’ve been working on. 👾 Whether it’s a small script or a big project, I’m ready to dive in headfirst and see where this journey takes me. The excitement is real, and I’m so pumped to keep learning, experimenting, and building. Stay tuned for some cool stuff ahead!
-I've already clocked over 100 hours on WakaTime, and I’m so proud of my progress! 💪 I’ve learned SASS and even started to get a solid grasp on how Node.js works. While I’m excited to dive into frameworks soon, my priority right now is to really sharpen my native HTML, CSS, and JavaScript skills. 🍀
-I’m still deciding between Webpack and Vite for my future projects, but I’m confident that everything will fall into place, step by step. My ultimate dream is to contribute to the open-source community by creating some really cool projects. Sharing helpful tools and solving real-world problems would be my biggest achievement.
-I’ll be sharing everything on my GitHub, so don’t forget to connect with me! Let’s be GitHub buddies, inspire each other, and maybe even collaborate on some awesome projects. 🚀💻 I’m excited to see what we can build together!
+I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line of code feels like magic, and I’m addicted to creating. Whether it’s a small script or a big project, I’m ready to dive in and see where this journey takes me. With over 100 hours clocked on WakaTime, I’ve learned SASS and started grasping Node.js. While I’m eager to explore frameworks soon, I’m focusing on sharpening my HTML, CSS, and JavaScript skills. Still deciding between Webpack and Vite, but I’m confident everything will fall into place. My dream is to contribute to open-source, creating projects that solve real-world problems. Let’s connect on GitHub and inspire each other—can’t wait to see what we’ll build together! 🚀💻
+
 <!-- About Me Text BEGIN -->
 
 <details>
