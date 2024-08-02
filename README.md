@@ -31,7 +31,7 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 
 | Website Portfolio ( In Progress )                            | Coming Soon                                                  | Coming Soon                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase_Landing_Page.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase2.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo.png) |
+| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase2.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Single_Card%20-%20Kopie.png) |
 
 
 <p align="center">
