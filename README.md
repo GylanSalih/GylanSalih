@@ -1,10 +1,8 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20Gylan%20Salih%2C%2027%20years%20old%20from%20Cologne%2C%20Germany.&descSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=I%20am%20Gylan%20Salih%2C%2027%20years%20old%20from%20Cologne%2C%20Germany.%20If%20my%20repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20happy%20to%20assist.&descSize=12" />
 </p>
-<p align="center">
-    <span style="font-size: 12px;">If my repositories can help you, I would be more than happy to assist.</span>
-</p>
+
 
 
 <!-- Header Animated Image END -->
