@@ -67,7 +67,7 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 <details open> 
   <summary><h2>🛠️ Programming Languages & Tools</h2></summary>
     <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,tailwind,ubuntu,threejs,unreal,windows,stackoverflow,github,mysql,vscode,ps,raspberrypi,wordpress,xd,ai&perline=14" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,sass,ubuntu,windows,stackoverflow,github,vscode,ps,raspberrypi,wordpress,xd,ai,figma&perline=14" />
 </p>
 </details>
 
