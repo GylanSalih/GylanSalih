@@ -1,6 +1,6 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=If%20my%20repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20happy%20to%20assist.&descSize=22" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=If%20my%20Repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20Happy%20to%20Assist.&descSize=24" />
 </p>
 
 
