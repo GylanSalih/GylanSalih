@@ -89,6 +89,5 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 
 <!-- Footer Animated Image -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20Follow&fontSize=60&animation=twinkling&fontAlignY=30&desc=I%20would%20appreciate%20if%20you%20star%20my%20repositories%20to%20stay%20up%20to%20date.&descSize=20&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20Follow&fontSize=60&animation=twinkling&fontAlignY=30&desc=I%20would%20appreciate%20if%20you%20star%20my%20repositories%20to%20stay%20up%20to%20date.&descSize=24&section=footer" />
 </p>
-
