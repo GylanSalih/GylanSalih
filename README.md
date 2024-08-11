@@ -88,6 +88,7 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 </details>
 
 <!-- Footer Animated Image -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Feel%20free%20to%20Follow&fontSize=60&animation=twinkling&fontAlignY=30&desc=I%20Would%20Appreciate%20If%20You%20Star%20My%20Repositories%20To%20Stay%20Up%20To%20Date.&descSize=24&section=footer" />
+<p align="center"> 
+
+![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356897991-0bafc364-0db4-4b1f-bf84-03b86739e519.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T182133Z&X-Amz-Expires=300&X-Amz-Signature=2bd25689d5c983e02f51383670e90f31b413f0e0d8c4c2abeccd60064226c6a9&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
 </p>
