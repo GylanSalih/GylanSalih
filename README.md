@@ -1,7 +1,7 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
 
-![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356902576-45290a14-51e7-4867-b2f7-42c732e2cddb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T195332Z&X-Amz-Expires=300&X-Amz-Signature=4cb40cf92879905b6ae5912c36b6c00360ec45e8b48780dd006f30629312d52a&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
+![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356903074-1212aca2-e979-4f1b-8370-1bd4492a1de4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T200421Z&X-Amz-Expires=300&X-Amz-Signature=9a7247b5742e03aca01ae939dca626212b503d1bea57be90bfa47693039f9836&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
 </p>
 
 <!-- Header Animated Image END -->
