@@ -1,6 +1,6 @@
 <!-- Header Animated Image BEGIN -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=If%20my%20Repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20Happy%20to%20Assist.&descSize=24" />
+<p align="center"> 
+![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356897624-c52cb648-c19d-4368-89c1-13ddba2327ae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T181603Z&X-Amz-Expires=300&X-Amz-Signature=b63904095bef0fb70ee67797832ebca201006627bfa63d2e795bb6a39c4bd5ca&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=841089226)
 </p>
 
 <!-- Header Animated Image END -->
