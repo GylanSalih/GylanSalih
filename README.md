@@ -1,7 +1,7 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
 
-![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356897624-c52cb648-c19d-4368-89c1-13ddba2327ae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T181603Z&X-Amz-Expires=300&X-Amz-Signature=b63904095bef0fb70ee67797832ebca201006627bfa63d2e795bb6a39c4bd5ca&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=841089226)
+![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356898789-8fca0bf6-da1b-4722-823a-8605b1e4bc46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T183716Z&X-Amz-Expires=300&X-Amz-Signature=aecb28d2df3ad1d1346f66a3f5e5759332b5f9723cfac5f03babc0a3bb2eb7ba&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
 </p>
 
 <!-- Header Animated Image END -->
@@ -90,5 +90,5 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 <!-- Footer Animated Image -->
 <p align="center"> 
 
-![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356897991-0bafc364-0db4-4b1f-bf84-03b86739e519.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T182133Z&X-Amz-Expires=300&X-Amz-Signature=2bd25689d5c983e02f51383670e90f31b413f0e0d8c4c2abeccd60064226c6a9&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
+![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356898810-0718880b-f980-4446-99fb-6e4f2a2345a9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T183740Z&X-Amz-Expires=300&X-Amz-Signature=73ae668b6c3a16a77f25832635b6191aca7b2db4eeafe8e3ec43eb8c044429ce&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
 </p>
