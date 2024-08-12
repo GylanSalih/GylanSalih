@@ -4,7 +4,6 @@
 ![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356903136-8f88af72-469a-40d2-90a1-1c8d1efb34f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T200541Z&X-Amz-Expires=300&X-Amz-Signature=8221e9ac9efb8c618ffe4bdb4e6284afb3dba15c7cd8b4c094a54fad7099dc75&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
 </p>
 
-
 <!-- Header Animated Image END -->
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
