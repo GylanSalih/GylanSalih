@@ -1,7 +1,7 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
 
-![Landing Image](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356903136-8f88af72-469a-40d2-90a1-1c8d1efb34f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T200541Z&X-Amz-Expires=300&X-Amz-Signature=8221e9ac9efb8c618ffe4bdb4e6284afb3dba15c7cd8b4c094a54fad7099dc75&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
+![Landing Image](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
 </p>
 
 <!-- Header Animated Image END -->
@@ -90,5 +90,5 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 <!-- Footer Animated Image -->
 <p align="center"> 
 
-![Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/129703706/356903145-4684907a-03dd-47ee-bc44-30a55d4b5098.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240811T200601Z&X-Amz-Expires=300&X-Amz-Signature=8964b8bccacc8a6519857f5e0e5e48da0bc655c3b15f0f4a69c2cd2ec1d361fd&X-Amz-SignedHeaders=host&actor_id=129703706&key_id=0&repo_id=623235396)
+![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/fftf.png)
 </p>
