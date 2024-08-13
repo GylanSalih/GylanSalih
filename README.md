@@ -30,9 +30,9 @@ I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line 
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
 
-| Website Portfolio ( In Progress )                            | Coming Soon                                                  | Coming Soon                                                  |
+| Website Portfolio ( In Progress )                            | Coming Soon                                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase2.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Single_Card%20-%20Kopie.png) |
+| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
 
 
 <p align="center">
