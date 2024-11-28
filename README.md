@@ -24,7 +24,7 @@
 # 👨‍💻 About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
-I’ve just taken my first steps into coding, and I’m hooked! 🎉 Every line of code feels like magic, and I’m addicted to creating. Whether it’s a small script or a big project, I’m ready to dive in and see where this journey takes me. With over 100 hours clocked on WakaTime, I’ve learned SASS and started grasping Node.js. While I’m eager to explore frameworks soon, I’m focusing on sharpening my HTML, CSS, and JavaScript skills. Still deciding between Webpack and Vite, but I’m confident everything will fall into place. My dream is to contribute to open-source, creating projects that solve real-world problems. Let’s connect on GitHub and inspire each other—can’t wait to see what we’ll build together! 🚀💻
+I’m working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
 
 <!-- About Me Text BEGIN -->
 
