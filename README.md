@@ -31,17 +31,9 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 <details>
     <summary><h2>⚡ My Repositories ⚡</h2></summary>
 
-| Website Portfolio ( In Progress )                            | Coming Soon                                                  | Ebay Gaming Scraper & Analyse                                |
+| Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/Showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
-
-| Home View                                                    | Diffrent Image                                               | Boxes + Info View                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Showcase 1](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase1.png) | ![Showcase 2](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png) | ![Showcase 3](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase3.png) |
-
-| Tiles View                                                   | Horizontal View                                              | Coming Soon :)                                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Showcase 4](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase4.png) | ![Showcase 5](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase5.png) | ![Showcase 4](https://github.com/GylanSalih/RetroVerse-Batocera-Theme/blob/main/Github%20Gallery%20Showcase/Coming-Soon.png) |
+| ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
 
 
 <p align="center">
