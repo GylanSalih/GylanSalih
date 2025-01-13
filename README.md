@@ -36,16 +36,6 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 | ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
 
 
-<p align="center">
-    <a href="https://github.com/GylanSalih/Website-Portfolio" target="_blank">
-    <img alt="Portfolio" title="Portfolio" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Website-Portfolio&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
-    <a href="https://github.com/GylanSalih/Card-Effect-Maker" target="_blank">
-    <img alt="Card Maker" title="Card Maker" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=Card-Effect-Maker&bg_color=000000&text_color=FFFFFF&hide_border=true&title_color=FF0000"/></a>
-    <a href="https://github.com/GylanSalih/GylanSalih" target="_blank">
-    <img alt="ReadMe.Design" title="ReadMe.Design" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=gylansalih&repo=GylanSalih&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=true"/></a>
-</details>
-
-
 
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
