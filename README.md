@@ -34,7 +34,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
 
-
+</details>
 
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
