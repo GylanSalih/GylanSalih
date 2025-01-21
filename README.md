@@ -36,10 +36,11 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 | ![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png) | ![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png) | ![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png) |
 
 </details>
-
+https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png
 <details open>  
   <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
 <p align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="40" height="40">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
