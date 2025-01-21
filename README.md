@@ -38,9 +38,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 </details>
 https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png
 <details open>  
-  <summary><h2>🔥 Streaks, Stats & Activity</h2></summary>
-<p align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="40" height="40">
+  <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity</h2></summary><p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
