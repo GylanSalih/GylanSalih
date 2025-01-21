@@ -63,7 +63,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 </details>
 
 <details open> 
-  <summary><h2>💻 My Favorite YouTube Videos</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"> My Favorite YouTube Videos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"></h2></summary>
    <p align="center">
        
 <!-- BEGIN YOUTUBE-CARDS -->
