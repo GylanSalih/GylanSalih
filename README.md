@@ -42,6 +42,8 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+      <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github&text_bold=true&line_height=25" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
     <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
     <br/>
