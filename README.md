@@ -58,7 +58,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> Programming Languages & Tools</h2></summary>
     <p align="center">
         <br/>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,sass,ubuntu,windows,stackoverflow,github,vscode,ps,raspberrypi,wordpress,xd,ai,figma&perline=8" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,sass,github,vscode,stackoverflow,ubuntu,windows,raspberrypi,wordpress,figma,ai,xd,ps&perline=8" />
 </p>
 </details>
 
