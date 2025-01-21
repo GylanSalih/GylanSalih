@@ -29,7 +29,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 <!-- About Me Text BEGIN -->
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" /></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
 | Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -55,7 +55,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 </details>
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> Programming Languages & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> Programming Languages & Tools</h2></summary>
     <p align="center">
         <br/>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,nodejs,sass,ubuntu,windows,stackoverflow,github,vscode,ps,raspberrypi,wordpress,xd,ai,figma&perline=8" />
@@ -63,7 +63,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 </details>
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"> My Favorite YouTube Videos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"> My Favorite YouTube Videos</h2></summary>
    <p align="center">
        
 <!-- BEGIN YOUTUBE-CARDS -->
