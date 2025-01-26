@@ -32,9 +32,10 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 
 | Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamingScrapper) |
+| [![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
 
 </details>
+
 
 
 <details open>  
