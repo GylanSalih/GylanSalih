@@ -19,7 +19,6 @@
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
 
-
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
