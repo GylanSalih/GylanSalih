@@ -9,6 +9,7 @@
 <!-- View counter - https://komarev.com -->
 <!-- https://custom-icon-badges.demolab.com-->
 
+
 <p align="center">
   <a href="https://github.com/GylanSalih?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gylansalih?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
@@ -17,6 +18,7 @@
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Gylansalih.com-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
+
 
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
