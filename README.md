@@ -31,9 +31,9 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
-| Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
+| Portify ( In Progress )                                      | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
+| [![Portify](https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
 
 </details>
 
