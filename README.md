@@ -40,6 +40,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Portify](https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
 
+
 <details open>  
   <summary>
     <h2>
@@ -48,28 +49,19 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
       <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30">
     </h2>
   </summary>
-
   <!-- GitHub Stats -->
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&rank_icon=github" />
-
   <!-- Streak Stats -->
   <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
-  
   <br/>
-
   <!-- Activity Graph -->
   <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000" />
-
   <!-- Most Used Languages -->
   <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FF0000" />
-
   <br/>
-
   <!-- WakaTime Stats -->
   <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FF0000&text_color=FFFFFF" />
-
 </details>
-
 
 
 <details open> 
