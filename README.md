@@ -39,6 +39,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
 | Portify ( In Progress )                                      | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Portify](https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
+</details>
 
 
 <details open>  
