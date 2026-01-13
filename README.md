@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/GylanSalih?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logoColor=white&logo=person-add&label=Follow"/>
+    ![GitHub followers](https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000)
     <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/gylansalih?logo=star&color=FF0000&style=for-the-badge&labelColor=000000"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=00000F&style=for-the-badge"/>
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
