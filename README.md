@@ -50,7 +50,7 @@ I’m working on my portfolio with React and Vite ⚡, mainly focusing on websit
     </h2>
   </summary>
   <!-- GitHub Stats -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&show_icons=true&title_color=FFFFFF&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&rank_icon=github&show_icons=true" />
   <!-- Streak Stats -->
   <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
   <br/>
