@@ -23,7 +23,7 @@
   <!-- WakaTime Badge -->
   <a href="https://wakatime.com/@gylansalih"><img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/></a>
   <!-- Website Badge -->
-  <a href="https://gylansalih.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=firefox&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
+  <a href="https://gylansalih.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=codeigniter&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
 </p>
 
 <!-- About Me Text BEGIN -->
