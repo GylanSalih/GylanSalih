@@ -1,9 +1,11 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
   
+<!-- Header svg -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/SVG%20Orbital.svg" alt="Gylan Salih Orbital" width="100%"/>
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Header%20Design.svg" alt="Gylan Salih Orbital" width="100%"/>
 </p>
+
 </p>
 <!-- Header Animated Image END -->
 <!-- Social badges section -->
@@ -82,8 +84,7 @@ I’m really into web design and building websites that actually work for people
 </details>
 
 
-<!-- Footer Animated Image -->
-<p align="center"> 
-
-![Portfolio](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/fftf.png)
+<!-- Footer SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Footer%20Design.svg" width="100%"/>
 </p>
