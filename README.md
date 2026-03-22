@@ -1,6 +1,6 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
-https://github.com/GylanSalih/GylanSalih/blob/main/SVG%20Orbital.svg
+
 ![Landing Image](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
 </p>
 <!-- Header Animated Image END -->
