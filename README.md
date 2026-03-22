@@ -32,23 +32,23 @@ I'm really into web design and building websites that actually work for people. 
       <td align="center" width="33%">
         <a href="https://github.com/GylanSalih/NextJS-Portify">
           <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="100%" alt="Portify"/>
-          <br/>
-          <sub><b>Portify (In Progress)</b></sub>
         </a>
+        <br/>
+        <sub><b>Portify (In Progress)</b></sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
           <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="100%" alt="RetroVerse"/>
-          <br/>
-          <sub><b>Retro Gaming Emulator Theme</b></sub>
         </a>
+        <br/>
+        <sub><b>Retro Gaming Emulator Theme</b></sub>
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/GylanSalih/GamePriceTracker">
           <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="100%" alt="GamePriceTracker"/>
-          <br/>
-          <sub><b>Ebay Gaming Scraper & Analyse</b></sub>
         </a>
+        <br/>
+        <sub><b>Ebay Gaming Scraper & Analyse</b></sub>
       </td>
     </tr>
   </table>
