@@ -20,7 +20,7 @@
     <!-- GitHub Stars Badge -->
     <img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
     <!-- Profile Views Badge -->
-    <img alt="Profile Views" title="Views" src="https://visitor-badge.laobi.icu/badge?page_id=GylanSalih.GylanSalih&style=for-the-badge&color=FF0000&labelColor=000000&logo=eye&logoColor=white"/>
+    <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=FF0000&style=for-the-badge&label=VIEWS"/>
     <!-- WakaTime Badge -->
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/>
     <!-- Website Badge -->
