@@ -17,7 +17,7 @@
   <!-- GitHub Followers Badge -->
   <a href="https://github.com/GylanSalih?tab=followers"><img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
   <!-- GitHub Stars Badge -->
-  <a href="https://github.com/GylanSalih?tab=repositories"><img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/GylanSalih?tab=repositories"><img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=githubsponsors&logoColor=white"/></a>
   <!-- Profile Views Badge -->
   <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=FF0000&style=for-the-badge&label=VIEWS"/>
   <!-- WakaTime Badge -->
