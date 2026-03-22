@@ -1,0 +1,387 @@
+<svg viewBox="0 0 1400 600" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
+  <defs>
+    <style>
+      text { font-family: 'DM Mono', 'Courier New', monospace; }
+      .title { font-family: 'Syne', 'Arial Black', sans-serif; font-weight: 800; }
+    </style>
+
+    <!-- Orbit paths (ellipses centered at 700,310) -->
+    <!-- Each planet follows its path via animateMotion -->
+
+    <path id="p1" d="M 700,310 m -88,0 a 88,30 0 1 1 176,0 a 88,30 0 1 1 -176,0"/>
+    <path id="p2" d="M 700,310 m -155,0 a 155,52 0 1 1 310,0 a 155,52 0 1 1 -310,0"/>
+    <path id="p3" d="M 700,310 m -230,0 a 230,76 0 1 1 460,0 a 230,76 0 1 1 -460,0"/>
+    <path id="p4" d="M 700,310 m -315,0 a 315,104 0 1 1 630,0 a 315,104 0 1 1 -630,0"/>
+    <path id="p5" d="M 700,310 m -410,0 a 410,136 0 1 1 820,0 a 410,136 0 1 1 -820,0"/>
+
+    <!-- Reverse paths for counter-clockwise orbits -->
+    <path id="p2r" d="M 700,310 m 155,0 a 155,52 0 1 0 -310,0 a 155,52 0 1 0 310,0"/>
+    <path id="p4r" d="M 700,310 m 315,0 a 315,104 0 1 0 -630,0 a 315,104 0 1 0 630,0"/>
+  </defs>
+
+  <!-- Background stars -->
+  <g opacity="0.5">
+    <circle cx="42"   cy="18"  r="0.8" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="183"  cy="54"  r="1"   fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="320"  cy="22"  r="0.7" fill="#fff" opacity="0.7"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="510"  cy="44"  r="0.9" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="680"  cy="15"  r="0.6" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="870"  cy="38"  r="1.1" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="6.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="20"  r="0.7" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1220" cy="50"  r="0.9" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1380" cy="25"  r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="90"   cy="140" r="0.6" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="5.6s" repeatCount="indefinite"/></circle>
+    <circle cx="255"  cy="160" r="1"   fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="460"  cy="130" r="0.7" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="740"  cy="100" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="7.2s" repeatCount="indefinite"/></circle>
+    <circle cx="950"  cy="145" r="0.9" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="115" r="0.6" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="5.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1340" cy="160" r="1"   fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="70"   cy="440" r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="200"  cy="490" r="0.9" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="400"  cy="460" r="0.6" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="6.3s" repeatCount="indefinite"/></circle>
+    <circle cx="620"  cy="510" r="1"   fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="900"  cy="480" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="440" r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1300" cy="500" r="1.1" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1385" cy="420" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="7.1s" repeatCount="indefinite"/></circle>
+    <circle cx="160"  cy="300" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1250" cy="280" r="0.9" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="5.1s" repeatCount="indefinite"/></circle>
+    <circle cx="30"   cy="340" r="0.7" fill="#fff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1370" cy="360" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ── Header ── -->
+  <text x="700" y="62" text-anchor="middle" class="title" font-size="44" fill="#ffffff" letter-spacing="-1">Gylan Salih</text>
+  <text x="700" y="90" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.35" letter-spacing="4">FRONTEND DEVELOPER  ·  UI / UX  ·  OPEN SOURCE</text>
+
+  <!-- ── CENTER DOT ── -->
+  <circle cx="700" cy="310" r="5" fill="#ffffff" opacity="0.9">
+    <animate attributeName="r" values="5;7;5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.5;0.9" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ══════════════════════════════════════════
+       ORBIT 1 — CW — React, Next.js
+  ═══════════════════════════════════════════ -->
+
+  <!-- React -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p1"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="12s" repeatCount="indefinite">
+        <mpath href="#p1"/>
+      </animateMotion>
+      <tspan dx="-20" dy="-12">React</tspan>
+    </text>
+  </g>
+
+  <!-- Next.js -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="12s" begin="-6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p1"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="12s" begin="-6s" repeatCount="indefinite">
+        <mpath href="#p1"/>
+      </animateMotion>
+      <tspan dx="-22" dy="-12">Next.js</tspan>
+    </text>
+  </g>
+
+  <!-- ══════════════════════════════════════════
+       ORBIT 2 — CCW — Figma, Framer, Storybook
+  ═══════════════════════════════════════════ -->
+
+  <!-- Figma -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="20s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p2r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="20s" repeatCount="indefinite">
+        <mpath href="#p2r"/>
+      </animateMotion>
+      <tspan dx="-17" dy="-12">Figma</tspan>
+    </text>
+  </g>
+
+  <!-- Framer -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="20s" begin="-6.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p2r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="20s" begin="-6.6s" repeatCount="indefinite">
+        <mpath href="#p2r"/>
+      </animateMotion>
+      <tspan dx="-20" dy="-12">Framer</tspan>
+    </text>
+  </g>
+
+  <!-- Storybook -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="20s" begin="-13.3s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p2r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="20s" begin="-13.3s" repeatCount="indefinite">
+        <mpath href="#p2r"/>
+      </animateMotion>
+      <tspan dx="-28" dy="-12">Storybook</tspan>
+    </text>
+  </g>
+
+  <!-- ══════════════════════════════════════════
+       ORBIT 3 — CW — TypeScript, Tailwind, Vite, Vue
+  ═══════════════════════════════════════════ -->
+
+  <!-- TypeScript -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="30s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p3"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="30s" repeatCount="indefinite">
+        <mpath href="#p3"/>
+      </animateMotion>
+      <tspan dx="-30" dy="-12">TypeScript</tspan>
+    </text>
+  </g>
+
+  <!-- Tailwind -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="30s" begin="-7.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p3"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="30s" begin="-7.5s" repeatCount="indefinite">
+        <mpath href="#p3"/>
+      </animateMotion>
+      <tspan dx="-24" dy="-12">Tailwind</tspan>
+    </text>
+  </g>
+
+  <!-- Vite -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="30s" begin="-15s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p3"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="30s" begin="-15s" repeatCount="indefinite">
+        <mpath href="#p3"/>
+      </animateMotion>
+      <tspan dx="-13" dy="-12">Vite</tspan>
+    </text>
+  </g>
+
+  <!-- Vue -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="30s" begin="-22.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p3"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="30s" begin="-22.5s" repeatCount="indefinite">
+        <mpath href="#p3"/>
+      </animateMotion>
+      <tspan dx="-13" dy="-12">Vue</tspan>
+    </text>
+  </g>
+
+  <!-- ══════════════════════════════════════════
+       ORBIT 4 — CCW — GSAP, Three.js, Git, GitHub, VS Code
+  ═══════════════════════════════════════════ -->
+
+  <!-- GSAP -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="44s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p4r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="44s" repeatCount="indefinite">
+        <mpath href="#p4r"/>
+      </animateMotion>
+      <tspan dx="-17" dy="-12">GSAP</tspan>
+    </text>
+  </g>
+
+  <!-- Three.js -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="44s" begin="-8.8s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p4r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="44s" begin="-8.8s" repeatCount="indefinite">
+        <mpath href="#p4r"/>
+      </animateMotion>
+      <tspan dx="-24" dy="-12">Three.js</tspan>
+    </text>
+  </g>
+
+  <!-- Git -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="44s" begin="-17.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p4r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="44s" begin="-17.6s" repeatCount="indefinite">
+        <mpath href="#p4r"/>
+      </animateMotion>
+      <tspan dx="-12" dy="-12">Git</tspan>
+    </text>
+  </g>
+
+  <!-- GitHub -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="44s" begin="-26.4s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p4r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="44s" begin="-26.4s" repeatCount="indefinite">
+        <mpath href="#p4r"/>
+      </animateMotion>
+      <tspan dx="-22" dy="-12">GitHub</tspan>
+    </text>
+  </g>
+
+  <!-- VS Code -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="44s" begin="-35.2s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p4r"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="44s" begin="-35.2s" repeatCount="indefinite">
+        <mpath href="#p4r"/>
+      </animateMotion>
+      <tspan dx="-24" dy="-12">VS Code</tspan>
+    </text>
+  </g>
+
+  <!-- ══════════════════════════════════════════
+       ORBIT 5 — CW — CSS/SCSS, Motion, Radix UI, Shadcn, Node.js, Accessibility
+  ═══════════════════════════════════════════ -->
+
+  <!-- CSS / SCSS -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-30" dy="-12">CSS / SCSS</tspan>
+    </text>
+  </g>
+
+  <!-- Motion -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" begin="-10.3s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" begin="-10.3s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-22" dy="-12">Motion</tspan>
+    </text>
+  </g>
+
+  <!-- Radix UI -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" begin="-20.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" begin="-20.6s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-25" dy="-12">Radix UI</tspan>
+    </text>
+  </g>
+
+  <!-- Shadcn/ui -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" begin="-31s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" begin="-31s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-27" dy="-12">Shadcn/ui</tspan>
+    </text>
+  </g>
+
+  <!-- Node.js -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" begin="-41.3s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" begin="-41.3s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-22" dy="-12">Node.js</tspan>
+    </text>
+  </g>
+
+  <!-- Accessibility -->
+  <g>
+    <circle r="5" fill="#ffffff">
+      <animateMotion dur="62s" begin="-51.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#p5"/>
+      </animateMotion>
+    </circle>
+    <text font-size="10" fill="#ffffff" opacity="0.75" letter-spacing="1">
+      <animateMotion dur="62s" begin="-51.6s" repeatCount="indefinite">
+        <mpath href="#p5"/>
+      </animateMotion>
+      <tspan dx="-36" dy="-12">Accessibility</tspan>
+    </text>
+  </g>
+
+  <!-- ── Footer quote ── -->
+  <text x="700" y="572" text-anchor="middle" font-size="11" fill="#ffffff" opacity="0.2" letter-spacing="3" font-style="italic">"Design is code. Code is craft."</text>
+
+</svg>
