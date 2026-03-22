@@ -1,0 +1,191 @@
+<svg viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg" style="background:#000;">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&amp;family=Marcellus&amp;display=swap');
+      text { font-family: 'Marcellus', 'Georgia', serif; }
+    </style>
+
+    <path id="f1"  d="M 700,155 m -310,0 a 310,62 0 1 1 620,0 a 310,62 0 1 1 -620,0"/>
+    <path id="f1r" d="M 700,155 m  310,0 a 310,62 0 1 0 -620,0 a 310,62 0 1 0  620,0"/>
+    <path id="f2"  d="M 700,155 m -520,0 a 520,95 0 1 1 1040,0 a 520,95 0 1 1 -1040,0"/>
+    <path id="f2r" d="M 700,155 m  520,0 a 520,95 0 1 0 -1040,0 a 520,95 0 1 0  1040,0"/>
+  </defs>
+
+  <!-- ─── BACKGROUND STARS ─── -->
+  <!-- Top strip -->
+  <circle cx="28"   cy="10"  r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="105"  cy="26"  r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.8s" repeatCount="indefinite"/></circle>
+  <circle cx="180"  cy="12"  r="1.0" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="5.1s" repeatCount="indefinite"/></circle>
+  <circle cx="265"  cy="34"  r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
+  <circle cx="350"  cy="8"   r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="440"  cy="22"  r="0.9" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="6.3s" repeatCount="indefinite"/></circle>
+  <circle cx="530"  cy="38"  r="0.6" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="4.6s" repeatCount="indefinite"/></circle>
+  <circle cx="620"  cy="14"  r="0.8" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.2s" repeatCount="indefinite"/></circle>
+  <circle cx="720"  cy="6"   r="0.9" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="6.2s" repeatCount="indefinite"/></circle>
+  <circle cx="815"  cy="28"  r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.0s" repeatCount="indefinite"/></circle>
+  <circle cx="910"  cy="12"  r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1000" cy="34"  r="0.6" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="7.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="10"  r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1180" cy="26"  r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.9s" repeatCount="indefinite"/></circle>
+  <circle cx="1270" cy="14"  r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1355" cy="32"  r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="1390" cy="10"  r="0.9" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.1s" repeatCount="indefinite"/></circle>
+
+  <!-- Left strip -->
+  <circle cx="12"   cy="70"  r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="4.7s" repeatCount="indefinite"/></circle>
+  <circle cx="30"   cy="130" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="6.0s" repeatCount="indefinite"/></circle>
+  <circle cx="10"   cy="185" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="28"   cy="240" r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="5.6s" repeatCount="indefinite"/></circle>
+
+  <!-- Right strip -->
+  <circle cx="1385" cy="65"  r="0.7" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1370" cy="125" r="0.6" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1388" cy="185" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1365" cy="240" r="0.7" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="6.9s" repeatCount="indefinite"/></circle>
+
+  <!-- Bottom strip -->
+  <circle cx="50"   cy="272" r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.6s" repeatCount="indefinite"/></circle>
+  <circle cx="155"  cy="286" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.3s" repeatCount="indefinite"/></circle>
+  <circle cx="265"  cy="274" r="0.8" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.2s" repeatCount="indefinite"/></circle>
+  <circle cx="390"  cy="290" r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="6.7s" repeatCount="indefinite"/></circle>
+  <circle cx="510"  cy="278" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.0s" repeatCount="indefinite"/></circle>
+  <circle cx="630"  cy="292" r="0.9" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="5.7s" repeatCount="indefinite"/></circle>
+  <circle cx="750"  cy="276" r="0.7" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="4.4s" repeatCount="indefinite"/></circle>
+  <circle cx="870"  cy="288" r="0.6" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="990"  cy="272" r="0.8" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="6.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="284" r="0.7" fill="#fff" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1230" cy="276" r="0.9" fill="#fff" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1340" cy="290" r="0.6" fill="#fff" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="4.8s" repeatCount="indefinite"/></circle>
+
+  <!-- ─── SHOOTING STARS (dot-trail comets) ─── -->
+  <g opacity="0">
+    <circle cx="-32" cy="-19" r="0.3"  fill="white" opacity="0.07"/>
+    <circle cx="-23" cy="-14" r="0.55" fill="white" opacity="0.18"/>
+    <circle cx="-14" cy="-8"  r="0.85" fill="white" opacity="0.38"/>
+    <circle cx="-6"  cy="-4"  r="1.15" fill="white" opacity="0.65"/>
+    <circle cx="0"   cy="0"   r="1.5"  fill="white"/>
+    <animateTransform attributeName="transform" type="translate" from="90,20" to="490,230" dur="1.9s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.1;0.82;1" dur="1.9s" begin="1.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <circle cx="-30" cy="-18" r="0.3"  fill="white" opacity="0.07"/>
+    <circle cx="-22" cy="-13" r="0.5"  fill="white" opacity="0.16"/>
+    <circle cx="-13" cy="-8"  r="0.8"  fill="white" opacity="0.35"/>
+    <circle cx="-5"  cy="-3"  r="1.1"  fill="white" opacity="0.62"/>
+    <circle cx="0"   cy="0"   r="1.4"  fill="white"/>
+    <animateTransform attributeName="transform" type="translate" from="400,10" to="820,230" dur="2.2s" begin="6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.1;0.80;1" dur="2.2s" begin="6.8s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <circle cx="-33" cy="-20" r="0.35" fill="white" opacity="0.07"/>
+    <circle cx="-24" cy="-14" r="0.6"  fill="white" opacity="0.18"/>
+    <circle cx="-15" cy="-9"  r="0.9"  fill="white" opacity="0.38"/>
+    <circle cx="-6"  cy="-4"  r="1.2"  fill="white" opacity="0.65"/>
+    <circle cx="0"   cy="0"   r="1.6"  fill="white"/>
+    <animateTransform attributeName="transform" type="translate" from="680,15" to="1100,240" dur="2.0s" begin="4.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.1;0.82;1" dur="2.0s" begin="4.1s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <circle cx="-30" cy="-18" r="0.3"  fill="white" opacity="0.07"/>
+    <circle cx="-22" cy="-13" r="0.5"  fill="white" opacity="0.16"/>
+    <circle cx="-13" cy="-8"  r="0.8"  fill="white" opacity="0.35"/>
+    <circle cx="-5"  cy="-3"  r="1.1"  fill="white" opacity="0.62"/>
+    <circle cx="0"   cy="0"   r="1.4"  fill="white"/>
+    <animateTransform attributeName="transform" type="translate" from="950,20" to="1320,230" dur="1.7s" begin="11.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.1;0.80;1" dur="1.7s" begin="11.3s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0">
+    <circle cx="-32" cy="-19" r="0.3"  fill="white" opacity="0.07"/>
+    <circle cx="-23" cy="-14" r="0.55" fill="white" opacity="0.17"/>
+    <circle cx="-14" cy="-8"  r="0.85" fill="white" opacity="0.36"/>
+    <circle cx="-6"  cy="-4"  r="1.15" fill="white" opacity="0.63"/>
+    <circle cx="0"   cy="0"   r="1.5"  fill="white"/>
+    <animateTransform attributeName="transform" type="translate" from="200,80" to="610,260" dur="2.1s" begin="9.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.1;0.80;1" dur="2.1s" begin="9.0s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- ─── CENTER TEXT (vertically centered, no email) ─── -->
+  <text x="700" y="148" text-anchor="middle" font-size="32" fill="#ffffff" letter-spacing="2" opacity="0.95">Let's build something together.</text>
+  <text x="700" y="176" text-anchor="middle" font-size="11" fill="#ffffff" opacity="0.28" letter-spacing="5">FREELANCE  ·  COLLABORATION  ·  OPEN SOURCE</text>
+
+  <!-- ─── CENTER PULSE DOT ─── -->
+  <circle cx="700" cy="155" r="3" fill="#ffffff" opacity="0.0"/>
+
+  <!-- ─── ORBIT 1 CW — Hire Me, Portfolio, Open Source, Community ─── -->
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="18s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.78" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="18s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion>
+      <tspan dx="-26" dy="-13">Hire Me</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="18s" begin="-4.5s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.78" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="18s" begin="-4.5s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion>
+      <tspan dx="-28" dy="-13">Portfolio</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="18s" begin="-9s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.78" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="18s" begin="-9s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion>
+      <tspan dx="-40" dy="-13">Open Source</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="18s" begin="-13.5s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.78" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="18s" begin="-13.5s" repeatCount="indefinite"><mpath href="#f1"/></animateMotion>
+      <tspan dx="-36" dy="-13">Community</tspan>
+    </text>
+  </g>
+
+  <!-- ─── ORBIT 2 CCW — Blog, GitHub, Freelance, Collaborate, Results, Reliable ─── -->
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-16" dy="-13">Blog</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" begin="-5s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" begin="-5s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-24" dy="-13">GitHub</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" begin="-10s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" begin="-10s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-32" dy="-13">Freelance</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" begin="-15s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" begin="-15s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-38" dy="-13">Collaborate</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" begin="-20s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" begin="-20s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-26" dy="-13">Results</tspan>
+    </text>
+  </g>
+  <g>
+    <circle r="4" fill="#fff"><animateMotion dur="30s" begin="-25s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion></circle>
+    <text font-size="12" fill="#fff" opacity="0.72" letter-spacing="0.6" font-family="'Poppins', sans-serif" font-weight="500">
+      <animateMotion dur="30s" begin="-25s" repeatCount="indefinite"><mpath href="#f2r"/></animateMotion>
+      <tspan dx="-28" dy="-13">Reliable</tspan>
+    </text>
+  </g>
+</svg>
