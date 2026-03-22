@@ -27,18 +27,17 @@ I'm really into web design and building websites that actually work for people. 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
-  <table align="center">
-    <tr>
-      <th>Portify ( In Progress )</th>
-      <th>Retro Gaming Emulator Theme</th>
-      <th>Ebay Gaming Scraper & Analyse</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GylanSalih/NextJS-Portify"><img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="260" height="160" style="object-fit:cover"/></a></td>
-      <td><a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme"><img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="260" height="160" style="object-fit:cover"/></a></td>
-      <td><a href="https://github.com/GylanSalih/GamePriceTracker"><img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="260" height="160" style="object-fit:cover"/></a></td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://github.com/GylanSalih/NextJS-Portify">
+      <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="32%" alt="Portify"/>
+    </a>
+    <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
+      <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="32%" alt="Retro Gaming Emulator Theme"/>
+    </a>
+    <a href="https://github.com/GylanSalih/GamePriceTracker">
+      <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="32%" alt="Ebay Gaming Scraper"/>
+    </a>
+  </p>
 </details>
 
 <!--------------- STREAKS, STATS & ACTIVITY --------------->
