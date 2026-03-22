@@ -1,17 +1,15 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center"> 
-
-![Landing Image](https://github.com/GylanSalih/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/SVG%20Orbital.svg" alt="Gylan Salih Orbital" width="100%"/>
+</p>
 </p>
 <!-- Header Animated Image END -->
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://komarev.com -->
 <!-- https://custom-icon-badges.demolab.com-->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/SVG%20Orbital.svg" alt="Gylan Salih Orbital" width="100%"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/GylanSalih?tab=followers">
