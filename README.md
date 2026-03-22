@@ -14,18 +14,16 @@
 <!-- https://custom-icon-badges.demolab.com-->
 
 <p align="center">
-  <a href="https://github.com/GylanSalih?tab=followers">
-    <!-- GitHub Followers Badge -->
-    <img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
-    <!-- GitHub Stars Badge -->
-    <img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
-    <!-- Profile Views Badge -->
-    <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=FF0000&style=for-the-badge&label=VIEWS"/>
-    <!-- WakaTime Badge -->
-    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/>
-    <!-- Website Badge -->
-    <img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=firefox&logoColor=white&style=for-the-badge&labelColor=000000"/>
-  </a>
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/GylanSalih?tab=followers"><img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
+  <!-- GitHub Stars Badge -->
+  <a href="https://github.com/GylanSalih?tab=repositories"><img alt="GitHub stars" title="Stars" src="https://img.shields.io/github/stars/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
+  <!-- Profile Views Badge -->
+  <img alt="Profile Views" title="Views" src="https://komarev.com/ghpvc/?username=gylansalih&color=FF0000&style=for-the-badge&label=VIEWS"/>
+  <!-- WakaTime Badge -->
+  <a href="https://wakatime.com/@gylansalih"><img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?style=for-the-badge&color=FF0000&labelColor=000000&logoColor=white"/></a>
+  <!-- Website Badge -->
+  <a href="https://gylansalih.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=firefox&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
 </p>
 
 <!-- About Me Text BEGIN -->
