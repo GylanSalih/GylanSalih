@@ -27,17 +27,31 @@ I'm really into web design and building websites that actually work for people. 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
-  <p align="center">
-    <a href="https://github.com/GylanSalih/NextJS-Portify">
-      <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="32%" alt="Portify"/>
-    </a>
-    <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
-      <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="32%" alt="Retro Gaming Emulator Theme"/>
-    </a>
-    <a href="https://github.com/GylanSalih/GamePriceTracker">
-      <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="32%" alt="Ebay Gaming Scraper"/>
-    </a>
-  </p>
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/NextJS-Portify">
+          <img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="100%" alt="Portify"/>
+          <br/>
+          <sub><b>Portify (In Progress)</b></sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme">
+          <img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="100%" alt="RetroVerse"/>
+          <br/>
+          <sub><b>Retro Gaming Emulator Theme</b></sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/GylanSalih/GamePriceTracker">
+          <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="100%" alt="GamePriceTracker"/>
+          <br/>
+          <sub><b>Ebay Gaming Scraper & Analyse</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <!--------------- STREAKS, STATS & ACTIVITY --------------->
