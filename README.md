@@ -1,13 +1,9 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Header%20Design.svg" alt="Gylan Salih Orbital" width="100%"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        BADGES                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- BADGES --------------->
 <p align="center">
   <!-- GitHub Followers -->
   <a href="https://github.com/GylanSalih?tab=followers"><img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
@@ -21,17 +17,13 @@
   <a href="https://gylansalih.com"><img alt="Website" title="Portfolio" src="https://img.shields.io/badge/-Gylansalih.com-000000?logo=codeigniter&logoColor=white&style=for-the-badge&labelColor=000000"/></a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- ABOUT ME --------------->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25"/> About Me
 **`Developer / Designer / Creator`**
 
 I'm really into web design and building websites that actually work for people. Soon, I'll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     REPOSITORIES                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- REPOSITORIES --------------->
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
@@ -49,9 +41,7 @@ I'm really into web design and building websites that actually work for people. 
   </table>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   STREAKS, STATS & ACTIVITY               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- STREAKS, STATS & ACTIVITY --------------->
 <details open>
   <summary>
     <h2>
@@ -62,8 +52,8 @@ I'm really into web design and building websites that actually work for people. 
   </summary>
 
   <p align="center">
-    <!-- GitHub Stats + Streak side by side -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&rank_icon=github"/>
+    <!-- GitHub Stats + Streak -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FF0000&text_color=FFFFFF&rank_icon=github"/>
     <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000"/>
     <!-- Activity Graph -->
     <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000"/>
@@ -74,9 +64,7 @@ I'm really into web design and building websites that actually work for people. 
   </p>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FAVORITE YOUTUBE VIDEOS                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- FAVORITE YOUTUBE VIDEOS --------------->
 <details open>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"/> My Favorite YouTube Videos</h2></summary>
 
@@ -92,9 +80,7 @@ I'm really into web design and building websites that actually work for people. 
   </p>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--------------- FOOTER --------------->
 <p align="center">
   <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/Footer%20Design.svg" width="100%"/>
 </p>
