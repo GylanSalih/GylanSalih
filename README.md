@@ -31,7 +31,7 @@
 **`Developer/Designer/Creator`**
 I’m really into web design and building websites that actually work for people. Soon, I’ll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
 
-<!-- About Me Text BEGIN -->
+<!-- Content Start -->
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
@@ -65,9 +65,9 @@ I’m really into web design and building websites that actually work for people
     <!-- Activity Graph -->
     <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000"/>
     <!-- Most Used Languages -->
-    <img width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&langs_count=8"/>
+<img width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FF0000&langs_count=8"/>
     <!-- WakaTime Stats -->
-    <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_progress=false&langs_count=10"/>
+<img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
   </p>
 </details>
 
