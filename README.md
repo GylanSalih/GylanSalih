@@ -10,6 +10,10 @@
 <!-- https://custom-icon-badges.demolab.com-->
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/GylanSalih/GylanSalih/main/SVG%20Orbital.svg" alt="Gylan Salih Orbital" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/GylanSalih?tab=followers">
     <!-- GitHub Followers Badge -->
     <img alt="GitHub followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gylansalih?color=FF0000&style=for-the-badge&labelColor=000000"/>
