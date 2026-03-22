@@ -29,47 +29,52 @@
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **`Developer/Designer/Creator`**
-
 I’m really into web design and building websites that actually work for people. Soon, I’ll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
 
 <!-- About Me Text BEGIN -->
-
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25"/> My Repositories</h2></summary>
 
-| Portify ( In Progress )                                      | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Portify](https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png)](https://github.com/GylanSalih/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/GylanSalih/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/GylanSalih/GamePriceTracker) |
+  <table align="center">
+    <tr>
+      <th>Portify ( In Progress )</th>
+      <th>Retro Gaming Emulator Theme</th>
+      <th>Ebay Gaming Scraper & Analyse</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GylanSalih/NextJS-Portify"><img src="https://github.com/GylanSalih/NextJS-Portify/blob/main/public/assets/images/showcase/Prtfolio_17_10_25.png?raw=true" width="260" height="160" style="object-fit:cover"/></a></td>
+      <td><a href="https://github.com/GylanSalih/RetroVerse-Batocera-Theme"><img src="https://raw.githubusercontent.com/GylanSalih/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png" width="260" height="160" style="object-fit:cover"/></a></td>
+      <td><a href="https://github.com/GylanSalih/GamePriceTracker"><img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png?raw=true" width="260" height="160" style="object-fit:cover"/></a></td>
+    </tr>
+  </table>
 </details>
 
-
-<details open>  
+<details open>
   <summary>
     <h2>
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
       Streaks, Stats & Activity
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="30">
     </h2>
   </summary>
-  <!-- GitHub Stats -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&rank_icon=github" />
-  <!-- Streak Stats -->
-  <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
-  <br/>
-  <!-- Activity Graph -->
-  <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000" />
-  <!-- Most Used Languages -->
-  <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FF0000" />
-  <br/>
-  <!-- WakaTime Stats -->
-  <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FF0000&text_color=FFFFFF" />
-</details>
 
+  <p align="center">
+    <!-- GitHub Stats + Streak side by side -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&show_icons=true&hide_border=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&rank_icon=github"/>
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000"/>
+    <!-- Activity Graph -->
+    <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area=true&area_color=FF0000&point=FF0000&line=FF0000"/>
+    <!-- Most Used Languages -->
+    <img width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&hide_border=true&card_width=805&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&langs_count=8"/>
+    <!-- WakaTime Stats -->
+    <img width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&hide_border=true&layout=default&card_width=805&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_progress=false&langs_count=10"/>
+  </p>
+</details>
 
 <details open> 
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25"> My Favorite YouTube Videos</h2></summary>
    <p align="center">
-       
+
 <p align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
