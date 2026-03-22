@@ -26,9 +26,9 @@
 
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
-**` Newbie Developer (Developer/Designer/Creator)`**
+**`Developer/Designer/Creator`**
 
-I’m working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
+I’m really into web design and building websites that actually work for people. Soon, I’ll be sharing a lot of my projects and design tools here as open source. I like learning as I go, improving step by step, and taking on new challenges to keep getting better.
 
 <!-- About Me Text BEGIN -->
 
