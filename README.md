@@ -89,12 +89,11 @@ I'm really into web design and building websites that actually work for people. 
     <a href="https://www.youtube.com/watch?v=GXlckaGr0Eo"><img src="https://ytcards.demolab.com/?id=GXlckaGr0Eo&title=Coding+Pacman&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Coding Pacman"/></a>
     <a href="https://www.youtube.com/watch?v=FkowOdMjvYo&t=2353s"><img src="https://ytcards.demolab.com/?id=FkowOdMjvYo&title=Develop+3D+Animated+Websites&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Three.js 3D Dev"/></a>
     <a href="https://www.youtube.com/watch?v=yqaLSlPOUxM"><img src="https://ytcards.demolab.com/?id=yqaLSlPOUxM&title=Crazy+3D+Image+Slider&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=100" alt="Crazy 3D Image Slider"/></a>
-    <a href="https://www.youtube.com/watch?v=zc_kbyd98JY"><img src="https://ytcards.demolab.com/?id=zc_kbyd98JY&title=CodeGrid+best+Tutorials&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="CodeGrid"/></a>
+    <a href="https://www.youtube.com/watch?v=zc_kbyd98JY"><img src="https://ytcards.demolab.com/?id=noXW6EG_Fe8&title=CodeGrid+best+Tutorials&lang=en&timestamp=1636628400&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=436" alt="CodeGrid"/></a>
     <a href="https://www.youtube.com/watch?v=zA9r5zTllx4"><img src="https://ytcards.demolab.com/?id=zA9r5zTllx4&title=Awwwards+Winning+Website&lang=en&timestamp=0&background_color=%23000000&title_color=%23ffffff&stats_color=%23ffffff&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Awwwards Winning Website"/></a>
     <!-- END YOUTUBE-CARDS -->
   </p>
 </details>
-
 
 <!--------------- FOOTER --------------->
 <p align="center">
