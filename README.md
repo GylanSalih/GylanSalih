@@ -54,6 +54,7 @@ I'm really into web design and building websites that actually work for people. 
   </table>
 </details>
 
+
 <!--------------- STREAKS, STATS & ACTIVITY --------------->
 <details open>
   <summary>
